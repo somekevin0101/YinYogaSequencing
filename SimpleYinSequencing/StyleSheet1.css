@@ -1,0 +1,48 @@
+﻿body {
+   
+    background-image: url('obj/grey_sandbag/grey_sandbag.png');
+    
+    width: 960px;
+    padding-top: 90px;
+    margin: auto;
+
+}
+ footer {
+     margin-top: 2%;
+     margin-bottom: 2%;
+ }
+ #sphinx {
+     box-shadow: lightblue 7px 7px; 
+ }   
+ .bodyParagraph {
+     border-bottom: solid lightgrey 3px;
+     padding-top: 1em;
+     padding-bottom: 1em;
+ }
+ h1 {
+  margin-bottom: 1em;
+  font-family: Arial, Helvetica, sans-serif;
+ }
+ h2 {
+     font-family:Arial, Helvetica, sans-serif;
+ }
+ form {
+     border-bottom: solid lightgrey 3px;
+     padding-bottom: 1em;
+ }
+ .salesPitch {
+     padding-top: 1em;
+     padding-bottom: 1em;
+     font-weight: bold;
+ }
+ body p {
+     font-family: Garamond;
+     font-size: 18px;
+     color: black;
+     
+ }
+ .listofposes {
+     font-family: Arial, Helvetica, sans-serif;
+     color: #1698e2;
+     font-size: 20px;
+ }
