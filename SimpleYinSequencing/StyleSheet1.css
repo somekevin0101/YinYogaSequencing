@@ -1,11 +1,7 @@
 ﻿body {
-   
-    background-image: url('obj/grey_sandbag/grey_sandbag.png');
-    
-    width: 960px;
-    padding-top: 90px;
+    background-image: url('Content/grey_sandbag/grey_sandbag.png');
+    padding: 4em;
     margin: auto;
-
 }
  footer {
      margin-top: 2%;
